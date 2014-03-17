@@ -9,9 +9,9 @@ require 'json'
 require 'pp'
 require 'uri'
 require 'net/http'
-require 'scraperwiki/datastore'
+#require 'scraperwiki/datastore'
 require 'httpclient'
-require 'scraperwiki/scraper_require'
+#require 'scraperwiki/scraper_require'
 
 
 #ScraperWiki::attach("it_glossary")
